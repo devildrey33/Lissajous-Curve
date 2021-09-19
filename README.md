@@ -6,3 +6,6 @@ Every time i feel challenged by anotherone examples i think its very easy... but
 
 So... ok i have a 0 on originality, but almost i have some day that im motivated to solve challenges, but of course i need TIME to do that.
 
+if i have to be true.. i never known until today about the Lissajous curve, but that was a thing that i know i can do when i saw that twitter example, and in my mind was a challenge to refresh / undust my mind and do some web cool things for fun.
+
+Ejemplo en vivo : https://codepen.io/devildrey33/pen/vYZRbGm?editors=0010
